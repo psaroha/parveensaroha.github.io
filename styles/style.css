@@ -12,5 +12,6 @@ body {
     border: 5px solid green;
 }
 h2 {
-    color:red;
+    color:black;
+    text-align:center;
 }
